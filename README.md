@@ -19,11 +19,10 @@ fixapt 是一个用于修复飞牛系统更新失败问题的脚本工具。当�
 3. 执行以下命令：
 
 ```bash
-# 给予脚本执行权限
-chmod +x fixapt.sh
+
 
 # 执行修复脚本
-sudo ./fixapt.sh
+curl -fsSL https://raw.githubusercontent.com/kongchengll/fixapt/main/fixapt.sh | sudo bash
 ```
 
 ## 功能特点
