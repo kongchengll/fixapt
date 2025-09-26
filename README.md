@@ -16,9 +16,9 @@ fixapt 是一个用于修复飞牛系统更新失败问题的脚本工具。当�
 
 ### 第一步：SSH连接到飞牛系统
 如果您不熟悉SSH连接，请参考以下教程：
-- [飞牛系统SSH连接教程](https://blog.fnnas.com/2024/07/02/SSH-into-FNNAS/)
-- [Windows系统SSH连接指南](https://www.hostinger.com/tutorials/how-to-use-putty-ssh)
-- [Mac/Linux系统SSH连接指南](https://www.hostinger.com/tutorials/ssh/basic-ssh-commands)
+- [飞牛系统SSH连接教程](https://www.hostinger.com/tutorials/how-to-use-putty-ssh](https://blog.csdn.net/zhengaga/article/details/145811517)
+- [Windows系统SSH连接指南]([https://www.hostinger.com/tutorials/how-to-use-putty-ssh](https://blog.csdn.net/zhengaga/article/details/145811517))
+- [Mac/Linux系统SSH连接指南]([https://www.hostinger.com/tutorials/ssh/basic-ssh-commands](https://zhuanlan.zhihu.com/p/1929105535367636231))
 
 基本SSH连接命令：
 ```bash
