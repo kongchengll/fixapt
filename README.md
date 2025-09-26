@@ -44,4 +44,4 @@ curl -fsSL https://raw.githubusercontent.com/kongchengll/fixapt/main/fixapt.sh |
 
 ---
 
-*最后更新: 2024年1月*
+*最后更新: 2025年9月*
